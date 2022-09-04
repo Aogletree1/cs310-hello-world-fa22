@@ -17,4 +17,8 @@ public class Class1 {
         // v3.0 (hot fixed)
     }
 
+    private void f4() {
+        // New Feature.
+    }
+
 }
